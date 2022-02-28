@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NazgulM
-- 👀 I’m interested in finance, psychology books
+- 👀 I’m started from 0 in IT Programming.
 - 🌱 I’m currently learning investing and IT
 
 <!---
