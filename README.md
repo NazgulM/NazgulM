@@ -1,6 +1,7 @@
 # Nazgul
 
-![Nazgul's GitHub stats](https://github-readme-stats.vercel.app/api?username=NazgulM&count_private=true)
+![](https://raw.githubusercontent.com/NazgulM/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/NazgulM/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 [My information](https://maniyasovan.wixsite.com/nazgulm)
 
